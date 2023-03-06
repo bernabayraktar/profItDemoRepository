@@ -6,5 +6,5 @@ adasdasddasdas
 asdadasd
 
 =======
-Merhaba arkadaşlar bugün sizlerle git komutlarını deneyeceğiz.
->>>>>>> berke
+Merhaba arkadaşlar bugün sizlerle git komutlarını deneyeceğiz. :D
+>>>>>>> berke 
