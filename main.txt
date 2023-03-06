@@ -1,3 +1,1 @@
-
-atalkan degisik
-adasdasddasdas
+Merhaba arkadaşlar bugün sizlerle git komutlarını deneyeceğiz.
