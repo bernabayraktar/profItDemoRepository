@@ -1,1 +1,1 @@
-hello everywhere
+Merhaba arkadaşlar bugün sizlerle git komutlarını deneyeceğiz.
