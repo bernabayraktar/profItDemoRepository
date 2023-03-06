@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 
 atalkan degisik
 adasdasddasdas
 asdadasd
 
+=======
+Merhaba arkadaşlar bugün sizlerle git komutlarını deneyeceğiz.
+>>>>>>> berke
